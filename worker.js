@@ -1,4 +1,4 @@
-const RENDER_URL = "https://your-app.onrender.com/data"; // <-- change this
+const RENDER_URL = "https://obd2-dashboard.onrender.com"; // <-- change this
 
 export default {
   async fetch(request, env, ctx) {
